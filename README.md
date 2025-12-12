@@ -11,7 +11,7 @@ I enjoy turning ideas into real products using technologies like React, Next.js,
 Always learning. Always improving. Always building.
 * 🌍  I'm based in pakistan
 * ✉️  You can contact me at [zahidzahidhusssain@gmail.com](mailto:zahidzahidhusssain@gmail.com)
-* 🧠  I'm learning javascript algorithem
+* 🧠  I'm learning RUST
 * 🤝  I'm open to collaborating on yes
 * ⚡  💡 I have an entrepreneurial spirit and love learning new technologies.
 
