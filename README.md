@@ -4,8 +4,11 @@ Hi 👋 My name is zahidhussain
 full stack software developer
 -----------------------------
 
-hi my name zahidhussain and i am junier fullstack software developer i have 2 yares exprince about javascrip
+I'm a Full-Stack JavaScript Developer with 2 years of hands-on experience building modern, responsive, and scalable web applications. I work across both frontend and backend with a strong focus on clean code, performance, and great user experience.
 
+I enjoy turning ideas into real products using technologies like React, Next.js, Node.js, TypeScript, Tailwind CSS, and more.
+
+Always learning. Always improving. Always building.
 * 🌍  I'm based in pakistan
 * ✉️  You can contact me at [zahidzahidhusssain@gmail.com](mailto:zahidzahidhusssain@gmail.com)
 * 🧠  I'm learning javascript algorithem
