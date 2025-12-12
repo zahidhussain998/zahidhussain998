@@ -4,7 +4,7 @@ Hi 👋 My name is zahidhussain
 full stack software developer
 -----------------------------
 
-I'm a Full-Stack JavaScript Developer with 2 years of hands-on experience building modern, responsive, and scalable web applications. I work across both frontend and backend with a strong focus on clean code, performance, and great user experience.
+I'm a Software Developer with  hands-on experience building modern, responsive, and scalable web applications. I work across both frontend and backend with a strong focus on clean code, performance, and great user experience.
 
 I enjoy turning ideas into real products using technologies like React, Next.js, Node.js, TypeScript, Tailwind CSS, and more.
 
